@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repos\\FootballLeagueSolution\\tests\\FootballLeague.Infrastructure.Tests\\FootballLeague.Infrastructure.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Domain\\FootballLeague.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Domain\\FootballLeague.Domain.csproj",
+        "projectName": "FootballLeague.Domain",
+        "projectPath": "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Domain\\FootballLeague.Domain.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Infrastructure\\FootballLeague.Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Infrastructure\\FootballLeague.Infrastructure.csproj",
+        "projectName": "FootballLeague.Infrastructure",
+        "projectPath": "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Infrastructure\\FootballLeague.Infrastructure.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Domain\\FootballLeague.Domain.csproj": {
+                "projectPath": "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Domain\\FootballLeague.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\repos\\FootballLeagueSolution\\tests\\FootballLeague.Infrastructure.Tests\\FootballLeague.Infrastructure.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\FootballLeagueSolution\\tests\\FootballLeague.Infrastructure.Tests\\FootballLeague.Infrastructure.Tests.csproj",
+        "projectName": "FootballLeague.Infrastructure.Tests",
+        "projectPath": "C:\\repos\\FootballLeagueSolution\\tests\\FootballLeague.Infrastructure.Tests\\FootballLeague.Infrastructure.Tests.csproj",
+        "packagesPath": "C:\\Users\\michael.stoyanov\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\FootballLeagueSolution\\tests\\FootballLeague.Infrastructure.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\michael.stoyanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Domain\\FootballLeague.Domain.csproj": {
+                "projectPath": "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Domain\\FootballLeague.Domain.csproj"
+              },
+              "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Infrastructure\\FootballLeague.Infrastructure.csproj": {
+                "projectPath": "C:\\repos\\FootballLeagueSolution\\src\\FootballLeague.Infrastructure\\FootballLeague.Infrastructure.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.7, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

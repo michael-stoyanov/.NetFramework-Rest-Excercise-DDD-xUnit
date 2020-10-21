@@ -1,0 +1,11 @@
+C:\Users\kar70\source\repos\FootballLeagueSolution\src\FootballLeague.Domain\bin\Debug\FootballLeague.Domain.dll
+C:\Users\kar70\source\repos\FootballLeagueSolution\src\FootballLeague.Domain\bin\Debug\FootballLeague.Domain.pdb
+C:\Users\kar70\source\repos\FootballLeagueSolution\src\FootballLeague.Domain\obj\Debug\FootballLeague.Domain.csprojAssemblyReference.cache
+C:\Users\kar70\source\repos\FootballLeagueSolution\src\FootballLeague.Domain\obj\Debug\FootballLeague.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kar70\source\repos\FootballLeagueSolution\src\FootballLeague.Domain\obj\Debug\FootballLeague.Domain.dll
+C:\Users\kar70\source\repos\FootballLeagueSolution\src\FootballLeague.Domain\obj\Debug\FootballLeague.Domain.pdb
+C:\repos\FootballLeagueSolution\src\FootballLeague.Domain\bin\Debug\FootballLeague.Domain.dll
+C:\repos\FootballLeagueSolution\src\FootballLeague.Domain\bin\Debug\FootballLeague.Domain.pdb
+C:\repos\FootballLeagueSolution\src\FootballLeague.Domain\obj\Debug\FootballLeague.Domain.csproj.CoreCompileInputs.cache
+C:\repos\FootballLeagueSolution\src\FootballLeague.Domain\obj\Debug\FootballLeague.Domain.dll
+C:\repos\FootballLeagueSolution\src\FootballLeague.Domain\obj\Debug\FootballLeague.Domain.pdb
