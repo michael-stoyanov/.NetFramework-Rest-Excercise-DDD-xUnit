@@ -9,9 +9,11 @@
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
     using System.Web.Http;
+    using System.Web.Http.Cors;
 
     [ActionHandleFilter]
     [ExceptionHandleFilter]
+    [EnableCors(origins: "http://localhost:5000", headers: "*", methods: "*")]
     public class TeamsController : ApiController
     {
         private readonly ITeamService teamService;

@@ -8,9 +8,11 @@
     using System;
     using System.Collections.Generic;
     using System.Web.Http;
+    using System.Web.Http.Cors;
 
     [ActionHandleFilter]
     [ExceptionHandleFilter]
+    [EnableCors(origins: "http://localhost:5000", headers: "*", methods: "*")]
     public class RankingsController : ApiController
     {
         private readonly IRankingsService rankingsService;

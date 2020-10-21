@@ -11,7 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballLeague.Application"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballLeague.Infrastructure", "src\FootballLeague.Infrastructure\FootballLeague.Infrastructure.csproj", "{20CFACB3-D93B-44D7-9605-F7F807C8CBC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballLeague.Infrastructure.Tests", "..\FootballLeagueSolution/tests\FootballLeague.Infrastructure.Tests\FootballLeague.Infrastructure.Tests.csproj", "{C4E16A8C-DC25-4C42-8D7B-E09FE702011A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballLeague.Infrastructure.Tests", "tests\FootballLeague.Infrastructure.Tests\FootballLeague.Infrastructure.Tests.csproj", "{C4E16A8C-DC25-4C42-8D7B-E09FE702011A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CE5392C-6145-449B-A504-8390D0D5520C}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

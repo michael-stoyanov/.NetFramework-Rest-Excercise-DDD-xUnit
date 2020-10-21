@@ -76,3 +76,6 @@ C:\repos\FootballLeagueSolution\src\FootballLeague.Application\obj\Debug\Footbal
 C:\repos\FootballLeagueSolution\src\FootballLeague.Application\obj\Debug\FootballLeague.Application.csproj.CopyComplete
 C:\repos\FootballLeagueSolution\src\FootballLeague.Application\obj\Debug\FootballLeague.Application.dll
 C:\repos\FootballLeagueSolution\src\FootballLeague.Application\obj\Debug\FootballLeague.Application.pdb
+C:\repos\FootballLeagueSolution\src\FootballLeague.Application\bin\Debug\System.Web.Cors.dll
+C:\repos\FootballLeagueSolution\src\FootballLeague.Application\bin\Debug\System.Web.Http.Cors.dll
+C:\repos\FootballLeagueSolution\src\FootballLeague.Application\bin\Debug\System.Web.Http.Cors.xml

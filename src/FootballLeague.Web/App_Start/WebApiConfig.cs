@@ -13,6 +13,8 @@
             // Web API routes
             config.MapHttpAttributeRoutes();
 
+            config.EnableCors();
+
             config.Filters.Add(new ActionHandleFilter());
             config.Filters.Add(new ExceptionHandleFilter());
 
