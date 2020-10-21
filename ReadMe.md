@@ -1,6 +1,6 @@
 #  Pariplay Football League Assignment
 	
-				### TODOs:
+### TODOs:
 1. Write the proper documentation for controllers and services.
 2. Hide database exceptions with generix ones to hide valuabe information/table names for attackers
 3. Reflection automapper profiles.
@@ -12,18 +12,18 @@
 
 ------------------
 
-				### Maybes:
+### Maybes:
 1. Create custom exceptions with own exception messages.
 2. Fix exceptions filter response status code.
 
 ------------------
 
-		### If I had more time: 
+### If I had more time: 
 1. Unit and integration tests - **In Process**
 	
 ------------------
 
-				### Notes:
+### Notes:
 Haven't tested everything. I tested Team and Game controller at one point but they were refactored 
 (because when i'm devoted to something i constantly think of other or better ways to make them, 
 nothing is concrete most of the times) and didn't had the time to fully test everything properly.
