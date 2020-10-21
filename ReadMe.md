@@ -1,6 +1,6 @@
-	Pariplay Football League Assignment
+	#  Pariplay Football League Assignment
 	
-			TODOs:
+			### TODOs:
 	1. Write the proper documentation for controllers and services.
 	2. Hide database exceptions with generix ones to hide valuabe information/table names for attackers
 	3. Reflection automapper profiles.
