@@ -22,14 +22,3 @@
 1. Unit and integration tests - **In Process**
 	
 ------------------
-
-### Notes:
-Haven't tested everything. I tested Team and Game controller at one point but they were refactored 
-(because when i'm devoted to something i constantly think of other or better ways to make them, 
-nothing is concrete most of the times) and didn't had the time to fully test everything properly.
-	
-Swagger UI is implemented and set as default starting page of the project that's why i didn't send 
-a Postman collection and i assume it will be faster for testing this way.
-	
-	Kind Regards, 
-		Michael S.
