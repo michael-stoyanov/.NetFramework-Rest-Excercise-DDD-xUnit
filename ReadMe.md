@@ -10,8 +10,9 @@
 7. Add validations and exceptions in Rankings controller/service/repo.
 8. Static file which has all of the string messages for logging and exceptions.
 9. Unit and integration tests - **In Progress**
+10. Use Fixtures for faster mocking of the environment. 
 
-10. Fix: Repositories with the proper Repository pattern using TEntitiy instead db context!!
+11. Fix: Repositories with the proper Repository pattern using TEntitiy instead db context!!
 ------------------
 
 ### Maybes:
